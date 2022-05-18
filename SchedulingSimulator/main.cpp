@@ -1,6 +1,6 @@
 #include "myframe.h"
 
-// test commit
+// test commit again test
 class MyApp : public wxApp
 {
 public:
